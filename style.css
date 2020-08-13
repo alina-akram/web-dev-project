@@ -1,0 +1,33 @@
+.canvas {
+  border: 1em black dotted;
+  position: center;
+  top: 5em;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+#canvas-draft {
+  background-color: transparent;
+}
+body {
+  overflow: hidden;
+}
+#canvas-container {
+  height: 45em;
+}
+
+h1{
+  text-align: center;
+  font-size: 40em;
+  font-family: 'Courier New', Courier, monospace;
+  font-style:  bold;
+}
+
+.buttons {
+  margin-top: 55em;
+  position: center;
+  width: 100%;
+  margin-left: 10em;
+
+}
